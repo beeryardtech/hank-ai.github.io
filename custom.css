@@ -36,6 +36,25 @@ html, body {
   height: var(--size-h-nav);
 }
 
+.navbar a {
+  color: #55AAFF;
+}
+
+.quote-container {
+  min-height:200px;
+}
+
+.quote-container-about {
+  min-height:100px;
+}
+
+.blockquote_carousel {
+  font-family: serif;
+}
+
+.blockquote_carousel a {
+  color: var(--color-text-secondary);
+}
 /**
 * FOOTER
 **/
